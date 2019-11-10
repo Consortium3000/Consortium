@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Consortium Core
+Comment=Consortium P2P Cryptocurrency
+Comment[fr]=Consortium, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Consortium, eşten eşe kriptografik sanal para birimi
+Exec=consortium-qt %u
+Terminal=false
+Type=Application
+Icon=consortium128
+MimeType=x-scheme-handler/consortium;
+Categories=Office;Finance;
+StartupWMClass=Consortium-qt
