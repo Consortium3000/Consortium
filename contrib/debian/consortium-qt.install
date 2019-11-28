@@ -1,6 +1,0 @@
-usr/local/bin/consortium-qt usr/bin
-share/pixmaps/consortium32.xpm usr/share/pixmaps
-share/pixmaps/consortium16.xpm usr/share/pixmaps
-share/pixmaps/consortium128.png usr/share/pixmaps
-debian/consortium-qt.desktop usr/share/applications
-debian/consortium-qt.protocol usr/share/kde4/services/
