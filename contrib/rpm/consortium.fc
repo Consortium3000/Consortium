@@ -1,8 +1,0 @@
-/usr/bin/consortium-cli		--	gen_context(system_u:object_r:consortium_exec_t,s0)
-/usr/sbin/consortiumd		--	gen_context(system_u:object_r:consortium_exec_t,s0)
-/usr/lib(64)?/consortium/consortiumd		--	gen_context(system_u:object_r:consortium_exec_t,s0)
-
-/etc/consortium(/.*)?		gen_context(system_u:object_r:consortium_conf_t,s0)
-/var/lib/consortium(/.*)?		gen_context(system_u:object_r:consortium_var_lib_t,s0)
-
-(/var)?/run/consortiumd(/.*)?   gen_context(system_u:object_r:consortium_var_run_t,s0)
