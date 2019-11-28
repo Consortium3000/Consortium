@@ -1,3 +1,0 @@
-usr/local/bin/consortiumd usr/bin
-usr/local/bin/consortium-cli usr/bin
-debian/examples/consortium.conf etc/consortium
